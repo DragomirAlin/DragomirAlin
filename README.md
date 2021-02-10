@@ -12,9 +12,6 @@ Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time t
 
 ## Personal Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=convoychat" />
+<a href="https://github.com/DragomirAlin/dragomiralin.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io" />
 </a>
