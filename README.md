@@ -12,7 +12,7 @@ Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time t
 
 ## Personal Projects
 
-<a href="https://github.com/DragomirAlin/dragomiralin.github.io">
+<a href="dragomiralin.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io" />
 </a>
 
