@@ -16,4 +16,11 @@ Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time t
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io)](https://github.com/DragomirAlin/dragomiralin.github.io)
+<a href="https://github.com/DragomirAlin/car.hire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=car.hire />
+</a>
+
+
+<a href="https://github.com/DragomirAlin/car.hire.rental">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=car.hire.rental" />
+</a>
