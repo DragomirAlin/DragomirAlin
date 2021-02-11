@@ -2,7 +2,7 @@
 Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time travelling, learn new things, programming and develop projects. I am also passionate about internet of things and microservices world.
 
 ## How to reach me
-<a href="https://www.linkedin.com/in/dragomir-daniel-alin-4b04b7171/"></a>
+<a href="https://www.linkedin.com/in/dragomir-daniel-alin-4b04b7171/">Linkedin</a>
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragomiralin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,4 +16,4 @@ Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time t
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=gdragomiralin.github.io)](https://github.com/DragomirAlin/dragomiralin.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=dragomiralin.github.io)](https://github.com/DragomirAlin/dragomiralin.github.io)
