@@ -17,7 +17,7 @@ Hi! I`m Alin, a Software Developer in Brasov, Romania. I like to spend my time t
 </a>
 
 <a href="https://github.com/DragomirAlin/car.hire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=car.hire />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragomiralin&repo=car.hire"/>
 </a>
 
 
