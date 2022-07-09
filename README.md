@@ -1,9 +1,9 @@
 Hi there 👋
 
-I'm currently a Software Engineer, I like learning every day and I am passionate about Microservices, Cloud and the Internet of Things. :rocket:
+I'm currently a Software Engineer, I like learning every day and I am passionate about Microservices, Cloud and the Internet of Things.
 <br />
 
-* :hammer: I love building things
+* :rocket: I love building things
 * 🔭 I’m currently working on side projects
 * 🌱 I’m currently learning about Cloud (Kubernetes, OpenStack, Terraform)
 * 🤝 I’m looking to collaborate on new ideas
